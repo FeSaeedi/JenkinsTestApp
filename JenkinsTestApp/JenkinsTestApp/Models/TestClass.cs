@@ -9,7 +9,7 @@ namespace JenkinsTestApp.Models
     {
         public int GetValue()
         {
-            int y = 0;
+            int py = 0;
             return 2;
         }
     }
