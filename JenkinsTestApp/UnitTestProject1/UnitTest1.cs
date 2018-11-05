@@ -12,7 +12,7 @@ namespace UnitTestProject1
             var testclass = new  JenkinsTestApp.Models.TestClass();
             //assert
             int expected = testclass.GetValue();
-            int actual = 5;
+            int actual =2;
            Assert.AreEqual(expected, actual, "fail");
         }
     }
