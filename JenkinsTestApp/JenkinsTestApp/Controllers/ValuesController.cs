@@ -19,7 +19,7 @@ namespace JenkinsTestApp.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value7";
+            return "value8";
         }
 
         // POST api/values
