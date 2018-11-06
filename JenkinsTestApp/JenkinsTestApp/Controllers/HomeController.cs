@@ -10,7 +10,7 @@ namespace JenkinsTestApp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "HomePage";
 
             return View();
         }
